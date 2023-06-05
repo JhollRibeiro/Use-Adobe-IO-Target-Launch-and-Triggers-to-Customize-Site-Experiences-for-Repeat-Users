@@ -6,7 +6,7 @@ These instructions describe how to use Adobe I/O Events and Runtime with Launch,
 
 1. [Set Up Products](#Set-Up-Products)
 
-1. [Watch the Solution Work](#Watch-It-Work)
+1. [Watch the Solution Work](#WatchItWork)
 
 ## <a name="Introduction">Introduction</a>
 
@@ -363,7 +363,7 @@ To set up Target:
 
 12. Click **Save & Close**.
  
-## <a name="Watch-It-Work">Watch the Solution Work</a> 
+## <a name="WatchItWork">Watch the Solution Work</a> 
 
 To watch the solution work, you can test the cart abandonment scenario:
 
